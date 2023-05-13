@@ -1,0 +1,56 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set the background color for the entire page */
+  body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Set the styles for the header section */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Set the styles for the main content section */
+  main {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Set the styles for the article element */
+  article {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  /* Set the styles for the heading elements */
+  h1, h2, h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Set the styles for the anchor elements */
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* Set the styles for the footer section */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  

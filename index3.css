@@ -1,0 +1,15 @@
+/* Create a button style */
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Style the button on hover */
+  button:hover {
+    background-color: #666;
+  }
+  
